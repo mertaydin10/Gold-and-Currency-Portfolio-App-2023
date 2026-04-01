@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pycache/
+.mpl/
+*.pyc
+varlik.db
+.env
